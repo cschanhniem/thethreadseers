@@ -13,7 +13,7 @@ export default function HomePage() {
 
           {/* Tagline */}
           <p className="text-xl sm:text-2xl font-serif text-text-body leading-relaxed mb-12 max-w-3xl mx-auto">
-            Sixteen-year-old Lyra Chen discovers she can see the invisible threads that connect all living things—and that someone is cutting them.
+            In a world where ancient wisdom meets contemporary crisis, sixteen-year-old Lyra Chen inherits the ability to perceive the luminous threads that bind all existence—just as a conspiracy threatens to unravel the very fabric of reality itself.
           </p>
 
           {/* Call to Action Buttons */}
@@ -31,6 +31,25 @@ export default function HomePage() {
             >
               Explore the Series
             </Link>
+          </div>
+        </div>
+
+        {/* Literary Description */}
+        <div className="mt-20 max-w-4xl mx-auto">
+          <div className="prose-dark text-center">
+            <p className="text-lg leading-relaxed mb-8">
+              From the resistance networks of 1943 Saigon to the hidden academies of contemporary America,
+              <em>The Thread Seers</em> weaves together three millennia of cultural wisdom in a narrative
+              that transcends genre boundaries. This is literary fantasy at its finest—a work that honors
+              the philosophical traditions of Buddhism, the cultural heritage of Asian diaspora communities,
+              and the universal human longing for connection and meaning.
+            </p>
+            <p className="text-lg leading-relaxed">
+              Built on the Buddhist foundation of dependent origination, the series explores how individual
+              transformation ripples through communities, how ancient wisdom guides contemporary choices,
+              and how the courage to heal can overcome the impulse to control. This is storytelling that
+              educates as it entertains, that honors cultural authenticity while creating something entirely new.
+            </p>
           </div>
         </div>
       </div>

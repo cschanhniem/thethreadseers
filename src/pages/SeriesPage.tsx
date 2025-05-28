@@ -76,10 +76,11 @@ export default function SeriesPage() {
         </h1>
         <div className="prose-dark">
           <p className="text-xl leading-relaxed max-w-3xl mx-auto">
-            A young adult fantasy series following Lyra Chen from age 16 to 18 as she discovers
-            her ability to see the invisible threads connecting all living things. Set in our contemporary world
-            with a hidden magical dimension, the series explores themes of connection, responsibility, and finding
-            one's place in something vastly larger than oneself.
+            A literary fantasy masterpiece that weaves together three millennia of cultural wisdom in a narrative
+            that transcends genre boundaries. Following Lyra Chen from age 16 to 18 as she inherits her family's
+            ancient ability to perceive the luminous threads connecting all existence, this series honors the
+            philosophical traditions of Buddhism, the cultural heritage of Asian diaspora communities, and the
+            universal human struggle between control and compassion.
           </p>
         </div>
       </div>
@@ -146,6 +147,60 @@ export default function SeriesPage() {
             </div>
           </div>
         ))}
+      </div>
+
+      {/* Literary Themes */}
+      <div className="mt-20">
+        <h2 className="font-sans text-h2 font-normal text-text-primary mb-8 text-center luminous-text">
+          Literary Themes & Cultural Significance
+        </h2>
+        <div className="grid md:grid-cols-2 gap-8">
+          <div className="prose-dark">
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Philosophical Foundation
+            </h3>
+            <p>
+              Built on the Buddhist concept of dependent origination (pratītyasamutpāda), the series explores
+              how all phenomena arise in dependence upon multiple causes and conditions. This philosophical
+              framework transforms the magic system from mere fantasy into a profound meditation on
+              interconnectedness and the nature of reality itself.
+            </p>
+          </div>
+
+          <div className="prose-dark">
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Cultural Authenticity
+            </h3>
+            <p>
+              From the resistance networks of 1943 Saigon to contemporary Asian American experiences,
+              the series demonstrates extraordinary historical research and cultural sensitivity. Each
+              thread tradition—Korean, Indian, Chinese, Egyptian, African, Indigenous—is portrayed
+              with respect and authenticity, creating a truly multicultural approach to fantasy literature.
+            </p>
+          </div>
+
+          <div className="prose-dark">
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Healing vs. Control
+            </h3>
+            <p>
+              The central conflict between Professor Harlow's extractive approach and Lin Chen's communion
+              philosophy reflects broader themes about how we relate to power, nature, and each other.
+              The series advocates for healing over control, connection over dominance, and love over fear.
+            </p>
+          </div>
+
+          <div className="prose-dark">
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Intergenerational Wisdom
+            </h3>
+            <p>
+              Through Lyra's connection to her great-great-grandmother Mei-Hua and her grandmother Nai Nai,
+              the series explores how wisdom passes through generations, how cultural knowledge survives
+              trauma and displacement, and how young people can honor their heritage while forging new paths.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   )

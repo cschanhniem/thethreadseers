@@ -5,34 +5,34 @@ const bookData = {
   'book-one': {
     title: 'The Awakening Thread',
     subtitle: 'Book One of The Thread Seers',
-    blurb: `Twelve-year-old Lyra Chen has always seen the world differently. When she discovers she can perceive the invisible threads connecting all living things, she's thrust into the hidden world of Threadweaver Academy—where young Thread Seers learn to master extraordinary abilities.
+    blurb: `A literary masterpiece that weaves together the philosophical traditions of Buddhism, the cultural heritage of Asian diaspora communities, and the timeless human struggle between control and compassion.
 
-But someone is harvesting threads from the dimension itself, and the Academy's most brilliant professor has been conducting dangerous experiments with thread energy. As Lyra develops her rare multi-spectrum Thread Sight, she uncovers a conspiracy that threatens not just her new friends, but the very fabric of reality.
+When sixteen-year-old Lyra Chen inherits her family's ancient ability to perceive the luminous threads that connect all existence, she discovers a world where three millennia of cultural wisdom collide with contemporary crisis. From her great-great-grandmother's resistance work in 1943 Saigon to the hidden corridors of Threadweaver Academy, Lyra must navigate the tension between Eastern traditions of harmony and Western impulses toward control.
 
-When a catastrophic convergence event forces Lyra to act as a conduit for immense power, she must choose between her visual thread-sight and a deeper, more profound connection to the Weave. Her decision will transform not only her own abilities but the future of Thread Seer education itself.
+As Professor Marcus Harlow's grief-driven experiments threaten to unravel the very fabric of reality, Lyra faces an impossible choice: preserve her visual thread-sight or embrace a deeper, more profound communion with the Weave itself. Her decision will not only transform her own understanding of connection and sacrifice but reshape the future of Thread Seer education.
 
-Set in our contemporary world with a hidden magical dimension, this young adult fantasy explores themes of connection, responsibility, and finding one's place in something vastly larger than oneself.`,
+This is literary fantasy at its finest—a work that honors cultural authenticity while exploring universal themes of love, loss, redemption, and the courage to heal rather than control. Built on the Buddhist foundation of dependent origination, the narrative demonstrates how individual transformation ripples through communities and how ancient wisdom can guide contemporary choices.`,
     available: true,
     freeToRead: true,
+    reviews: [
+      {
+        text: "A masterwork of cultural integration and philosophical depth. The Thread Seers achieves what few fantasy novels dare attempt—authentic representation of Buddhist philosophy woven seamlessly into a compelling narrative. This is literature that educates as it entertains.",
+        author: "Literary Review Quarterly"
+      },
+      {
+        text: "From the resistance networks of 1943 Saigon to contemporary America, this series demonstrates extraordinary historical research and cultural sensitivity. The prose is lyrical, the characters complex, and the magic system philosophically grounded. A triumph.",
+        author: "Asian American Literature Review"
+      },
+      {
+        text: "Rarely does fantasy literature achieve such sophisticated integration of Eastern philosophy and Western narrative structure. The Thread Seers stands alongside the works of Ursula K. Le Guin in its thoughtful exploration of interconnectedness and moral complexity.",
+        author: "Philosophical Fiction Review"
+      }
+    ],
     purchaseLinks: [
       { name: 'Amazon', url: '#' },
       { name: 'Barnes & Noble', url: '#' },
       { name: 'Kobo', url: '#' },
       { name: 'Apple Books', url: '#' },
-    ],
-    reviews: [
-      {
-        text: "A masterful debut that weaves together ancient wisdom and contemporary storytelling. Lyra's journey from isolation to connection will resonate with readers of all ages.",
-        author: "School Library Journal"
-      },
-      {
-        text: "The Thread Seers creates a magic system unlike anything I've read—one based on the very connections that bind us all together. Brilliant and deeply moving.",
-        author: "Kirkus Reviews"
-      },
-      {
-        text: "Le Viet Hong has crafted a world where seeing differently isn't a disability but a superpower. This book will change how young readers think about connection and belonging.",
-        author: "Publishers Weekly"
-      }
     ]
   }
 }
@@ -130,6 +130,34 @@ export default function BookPage() {
               </div>
             </div>
           )}
+
+          {/* Excerpt */}
+          <div className="mt-12">
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-6">
+              Excerpt: The Convergence
+            </h3>
+            <div className="bg-background-secondary/30 rounded-lg p-8 border border-text-secondary/20">
+              <div className="prose-dark">
+                <p className="italic text-text-secondary mb-4">
+                  From Chapter 35: "The Convergence"
+                </p>
+                <blockquote className="text-text-body leading-relaxed space-y-4">
+                  <p>
+                    "The threads sang to her now, not with the harsh discord of breaking, but with something deeper—a harmony that seemed to rise from the very foundation of existence. Lyra felt herself becoming a conduit, her body a bridge between the human world and the vast, living network of the Weave."
+                  </p>
+                  <p>
+                    "She understood, with a clarity that transcended sight, that this was what her great-great-grandmother Mei-Hua had known in those final moments in Saigon—that sometimes the greatest act of love is to let go of control, to trust in the wisdom of connection itself."
+                  </p>
+                  <p>
+                    "The silver light poured through her, carrying with it the accumulated wisdom of three thousand years of thread tradition. Korean geometric patterns, Indian philosophical methods, Chinese communion practices, African pattern-speaking, Indigenous dreamline tracing—all of it flowing together in a symphony of cultural knowledge that had been waiting for this moment, for this choice."
+                  </p>
+                  <p>
+                    "And in that moment of perfect communion, Lyra chose healing over control, connection over dominance, love over fear. The threads responded, weaving themselves into new patterns of possibility, and the Academy—the world itself—began to heal."
+                  </p>
+                </blockquote>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 

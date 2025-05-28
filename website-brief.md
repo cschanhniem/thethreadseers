@@ -75,7 +75,7 @@
   * **Imagery:** Almost exclusively book covers. Presented with utmost simplicity and elegance, perhaps as if resting on the dark background. No decorative site imagery.  
   * **"Luminous Thread" Lighting Effect (The Signature Visual):**  
     * **Application:** This is the primary visual flourish. Applied to:  
-      * Key typographic elements on hover (main navigation, primary CTAs like "Read Book One Free," series title).  
+      * Key typographic elements on hover (main navigation, primary CTAs like "Read Book One," series title).  
       * Potentially as a very subtle, slow-drifting "thread" of light in the background of the hero section on the homepage, or subtly tracing the edges of the main content area on key pages. This should be almost subliminal, not a distracting animation.  
       * As a loading state indicator (e.g., a single, shimmering thread drawing itself).  
     * **Execution:** Not literal threads or lightning. Think:  
@@ -85,7 +85,7 @@
       * Animations should be exceptionally smooth, slow, and subtle (e.g., a slow pulse of light, a gentle drift).  
     * **Goal:** To evoke the magic of the threads in a highly sophisticated, minimalist way. It's about creating an *atmosphere* of light within darkness, hinting at the magic rather than explicitly depicting it. The effect should feel integrated, as if the light is inherent to the text or the space.  
 * **4.6. Interactive Elements (shadcn/ui, styled for invisibility):**  
-  * **Buttons (e.g., "Read Book One Free," "Buy Book Two," "Explore World"):**  
+  * **Buttons (e.g., "Read Book One," "Buy Book Two," "Explore World"):**  
     * Style: Primarily typographic. Plain text, perhaps slightly bolder, that activates the "Luminous Thread" effect on hover. No traditional button shapes unless absolutely necessary for clarity (e.g., in a form).  
     * Padding: Generous, defined by the text itself and its interactive state.  
   * **Links (inline text):**  
@@ -115,7 +115,7 @@
   * **Hero Section:**  
     * Dominant H1: "THE THREAD SEERS"  
     * Evocative Tagline (e.g., "Where threads connect worlds, and every choice weaves destiny.")  
-    * Primary CTA: "Read Book One Free" (prominent, luminous text button).  
+    * Primary CTA: "Read Book One" (prominent, luminous text button).  
     * Secondary CTA: "Explore the Series" (subtler text link).  
   * **Layout:** Vast whitespace. Typography as art. The "Luminous Thread" effect might subtly animate or pulse around the H1 or primary CTA to draw the eye.  
 * **6.2. Series Page (/series) \- "The Tapestry"**  

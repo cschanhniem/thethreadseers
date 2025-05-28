@@ -77,10 +77,10 @@ export default function BookPage() {
           <div className="space-y-4">
             {book.freeToRead && (
               <Link
-                to={`/series/${bookSlug}/read/chapter-1`}
+                to={`/series/${bookSlug}/read/prologue`}
                 className="block w-full minimal-button text-center text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-4 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
               >
-                Start Reading Chapter 1
+                Start Reading Prologue
               </Link>
             )}
 

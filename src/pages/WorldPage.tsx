@@ -193,7 +193,7 @@ export default function WorldPage() {
               Lyra Mei Chen
             </h3>
             <p>
-              A twelve-year-old Chinese-American protagonist who discovers her rare multi-spectrum Thread Sight.
+              A sixteen-year-old Chinese-American protagonist who discovers her rare multi-spectrum Thread Sight.
               Initially able to see all types of threads with unusual clarity, she undergoes a profound
               transformation during the Convergence event. After losing her visual thread-sight, she develops
               <em>Tactile Communion</em> (Shēn Céng Gòng Míng)—a full-bodied, multi-sensory perception of

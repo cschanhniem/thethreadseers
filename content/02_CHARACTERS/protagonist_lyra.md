@@ -2,8 +2,8 @@
 
 ## Basic Information
 - **Full Name**: Lyra Mei Chen
-- **Age**: 12 at series start, 18 by series end
-- **Grade**: 7th at series start
+- **Age**: 16 at series start, 18 by series end
+- **Grade**: 11th at series start (Junior year)
 - **Physical Appearance**:
   - Chinese-American
   - Average height, slender build

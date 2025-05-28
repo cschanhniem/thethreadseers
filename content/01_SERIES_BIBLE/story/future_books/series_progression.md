@@ -228,8 +228,8 @@ While the trilogy tells a complete story, several elements could support future 
 The series is designed for maximum impact in the current publishing market:
 
 ### Target Audience
-- Primary: Middle-grade readers ages 9-12
-- Secondary: Young adult crossover appeal
+- Primary: Young adult readers ages 14-18
+- Secondary: New adult crossover appeal (18-25)
 - Tertiary: Adult readers of accessible fantasy
 
 ### Series Pacing

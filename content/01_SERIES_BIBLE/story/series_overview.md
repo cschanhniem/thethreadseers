@@ -1,7 +1,7 @@
 # THE THREAD SEERS - Series Overview
 
 ## Core Concept
-"The Thread Seers" is a middle-grade fantasy series centered around twelve-year-old Lyra Chen, who discovers she can see the invisible threads that connect all living things. These luminous threads—representing relationships, emotions, destinies, and meaningful connections—are completely invisible to most people. When Lyra instinctively reaches out to repair a fraying thread between two fighting friends, she reveals herself as a rare Thread Seer with the ability not only to perceive these connections but also to strengthen, repair, and redirect them.
+"The Thread Seers" is a young adult fantasy series centered around sixteen-year-old Lyra Chen, who discovers she can see the invisible threads that connect all living things. These luminous threads—representing relationships, emotions, destinies, and meaningful connections—are completely invisible to most people. When Lyra instinctively reaches out to repair a fraying thread between two fighting friends, she reveals herself as a rare Thread Seer with the ability not only to perceive these connections but also to strengthen, repair, and redirect them.
 
 This discovery leads Lyra to Threadweaver Academy, a secret school hidden within the prestigious Westbrook Academy, where young Thread Seers learn to master their extraordinary abilities. As Lyra develops her unusually powerful thread sight, she and her new friends—each perceiving threads in their own unique way—uncover a mystery involving darkening threads that threatens not just their school but the invisible fabric holding their entire world together.
 
@@ -19,7 +19,7 @@ The series creates a sense of wonder and discovery through vivid, sensory-rich d
 First-person present tense narration from Lyra's perspective creates immediacy and emotional connection, allowing readers to discover the thread world alongside her. Her observant, occasionally sarcastic voice includes rich sensory details that bring the thread dimension to life.
 
 ## Long-Term Vision: The Awakening Network
-The series spans seven books, following Lyra and her friends from ages 12-18, with each book representing approximately one school year and escalating in scope and stakes:
+The series spans three books, following Lyra and her friends from ages 16-18, with each book representing approximately one school year and escalating in scope and stakes:
 
 1. **School**: Personal discovery and local threats
 2-3. **Community**: Regional thread phenomena and ethical challenges

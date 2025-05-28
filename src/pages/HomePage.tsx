@@ -13,7 +13,7 @@ export default function HomePage() {
 
           {/* Tagline */}
           <p className="text-xl sm:text-2xl font-serif text-text-body leading-relaxed mb-12 max-w-3xl mx-auto">
-            Twelve-year-old Lyra Chen discovers she can see the invisible threads that connect all living things—and that someone is cutting them.
+            Sixteen-year-old Lyra Chen discovers she can see the invisible threads that connect all living things—and that someone is cutting them.
           </p>
 
           {/* Call to Action Buttons */}

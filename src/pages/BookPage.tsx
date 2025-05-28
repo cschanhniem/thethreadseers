@@ -11,7 +11,7 @@ But someone is harvesting threads from the dimension itself, and the Academy's m
 
 When a catastrophic convergence event forces Lyra to act as a conduit for immense power, she must choose between her visual thread-sight and a deeper, more profound connection to the Weave. Her decision will transform not only her own abilities but the future of Thread Seer education itself.
 
-Set in our contemporary world with a hidden magical dimension, this middle-grade fantasy explores themes of connection, responsibility, and finding one's place in something vastly larger than oneself.`,
+Set in our contemporary world with a hidden magical dimension, this young adult fantasy explores themes of connection, responsibility, and finding one's place in something vastly larger than oneself.`,
     available: true,
     freeToRead: true,
     purchaseLinks: [

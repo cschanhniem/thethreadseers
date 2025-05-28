@@ -6,7 +6,7 @@ const books = [
     slug: 'book-one',
     title: 'The Awakening Thread',
     subtitle: 'Book One of The Thread Seers',
-    blurb: 'Twelve-year-old Lyra Chen has always seen the world differently. When she discovers she can perceive the invisible threads connecting all living things, she\'s thrust into the hidden world of Threadweaver Academy—where young Thread Seers learn to master extraordinary abilities. But someone is harvesting threads from the dimension itself, and Lyra must uncover the truth before the very fabric of reality unravels.',
+    blurb: 'Sixteen-year-old Lyra Chen has always seen the world differently. When she discovers she can perceive the invisible threads connecting all living things, she\'s thrust into the hidden world of Threadweaver Academy—where young Thread Seers learn to master extraordinary abilities. But someone is harvesting threads from the dimension itself, and Lyra must uncover the truth before the very fabric of reality unravels.',
     available: true,
     freeToRead: true,
   },
@@ -76,7 +76,7 @@ export default function SeriesPage() {
         </h1>
         <div className="prose-dark">
           <p className="text-xl leading-relaxed max-w-3xl mx-auto">
-            A seven-book middle-grade fantasy series following Lyra Chen from age 12 to 18 as she discovers
+            A young adult fantasy series following Lyra Chen from age 16 to 18 as she discovers
             her ability to see the invisible threads connecting all living things. Set in our contemporary world
             with a hidden magical dimension, the series explores themes of connection, responsibility, and finding
             one's place in something vastly larger than oneself.

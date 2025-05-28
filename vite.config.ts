@@ -18,4 +18,5 @@ export default defineConfig({
     port: 3000,
     open: true,
   },
+  base: '/tts_series_site/',
 })

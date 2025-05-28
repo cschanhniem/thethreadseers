@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import { ChevronLeft, ChevronRight, Menu, Settings } from 'lucide-react'
+import { ChevronLeft, ChevronRight, Settings } from 'lucide-react'
 
 // Chapter data from the actual manuscript
 const chapterData = {

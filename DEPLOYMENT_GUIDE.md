@@ -21,7 +21,7 @@
    **Note**: If you encounter dependency installation issues, the workflow includes fallback options with `--legacy-peer-deps` flag.
 
 3. **Access Your Site**:
-   - Your site will be available at: `https://yourusername.github.io/tts_series_site/`
+   - Your site will be available at: `https://cschanhniem.github.io/tts_series_site/`
    - The deployment typically takes 2-3 minutes
 
 ### Option 2: Manual Deployment

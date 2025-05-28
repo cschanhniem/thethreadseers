@@ -66,74 +66,114 @@ What else was possible?`,
     prevChapter: null,
   },
   'chapter-2': {
-    title: 'The Calling',
-    content: `When the light faded, Lyra found herself standing in a place that couldn't exist.
+    title: "Father's Equations",
+    content: `The questions from the night before, and the hope Ms. Rivera had sparked, still echoed in Lyra's mind as green tea and chalk dust scented the kitchen. Professor Chen's research papers colonized the breakfast table, an outpost of his university office. Rain tapped the windows as Lyra's charcoal scratched across her sketchbook.
 
-She stood on a platform of what looked like crystallized starlight, suspended in a void filled with countless silver threads. They stretched in every direction, forming a three-dimensional web so vast and complex that looking at it made her head spin. Some threads pulsed with gentle light, others flickered like dying candles, and still others blazed with colors she had no names for.
+Threads again. She couldn't stop drawing them. Three months ago, they were mere whispers of light; now, they emerged bold as shy animals. Reaching for fresh willow charcoal, she pricked her finger on a sharp, splintered edge. A tiny, crimson bead welled. With it came a strange sensation: not pain, but a faint, electric *sting*. It seemed to emanate from the warm, golden friendship thread that often shimmered around her father's favorite teacup. It vanished as quickly as it came, leaving her frowning, rubbing her fingertip. Odd. The silver family thread connecting her to her father thrummed with greater strength, yet sometimes she saw it fray. And the silver-gray academic threads around his work pulsed with discovery or dimmed with doubt, each like a distinct pigment.
 
-"Welcome, Thread Seer."
+Her father glanced up from his equations, a brief, distracted look that didn't quite meet her eyes. "The fruit bowl again, Lyra? You used to draw such lovely, precise still lifes." His gaze flickered towards her current page, then away, a subtle frown etched between his brows. "This new style… it's rather abstract, isn't it? Hard to tell what you're aiming for."
 
-Lyra spun around to find a woman standing behind her—tall, elegant, with silver hair that seemed to move with a wind that didn't exist. Her eyes were the same violet as the thread that had brought Lyra here.
+"It's... connections," Lyra mumbled, angling the sketchbook away protectively. His words, though gentle, landed like tiny barbs. *Hard to tell what you're aiming for.* It was the core of her frustration—how to make him *see* what was so vivid to her. His baffled disappointment was a familiar ache, a silent judgment: she'd veered from a path he understood into territory he found illegible, perhaps even worrying.
 
-"I'm not—" Lyra began, but the woman held up a hand.
+"Well, art needs its foundations," he said, his attention already returning to the glowing screen. "Perhaps focus on mastering the fundamentals before exploring… these." He gestured vaguely to her sketchbook. "You should finish grading those papers," he reminded her.
 
-"You are exactly what you were born to be," the woman said gently. "My name is Vera, and I am the last of the Thread Seers... until now."
+"Almost done." She set aside her sketchbook, the vibrant threads she'd been capturing dimming in her mind under the weight of his gentle incomprehension. The silver-gray academic threads around his work pulsed with an intensity that felt like a world away from her own, strongest when he worked on his equations.
 
-"The last?" Lyra's voice came out as barely a whisper. "But I thought the Thread Seers were just stories. Legends."
+"This correlation coefficient..." He frowned at his laptop. "Something's missing."
 
-Vera's smile was sad. "We were very real, child. We were the guardians of the Web—the network of connections that binds all worlds, all realities together. We could see the threads, manipulate them, repair them when they were damaged." She gestured to the vast web around them. "This is the heart of it all. The place where every thread begins and ends."
+Lyra peered over his shoulder, the sharp scent of black coffee mingling with dry paper. Numbers, variables, matrices—her father's language. Yet beneath the mathematics, she discerned patterns similar to what she'd been drawing.
 
-Lyra stared at the impossible vista. "It's beautiful."
+"What if you tried a non-linear approach?" she suggested. "The relationship looks more like a web than a line."
 
-"And dying," Vera said quietly. "Look closer."
+He paused, considering. "Interesting perspective." His fingers tapped new equations, eyes brightening. "Yes... that works."
 
-Lyra did, and her heart sank. Now that she knew what to look for, she could see the damage everywhere. Threads hung broken and fraying, their light dim or extinguished entirely. Dark patches spread through the web like infection, and in some places, entire sections had simply... vanished.
+The silver thread between them brightened momentarily—precious bridges over growing distance.
 
-"The shadow creatures," Lyra breathed. "They're not just attacking my village. They're attacking everything."
+Then, he gathered his papers, squaring corners with precision. "You're creative, Lyra, deeply so, like—" He stopped, the unspoken name of her mother hanging in the air, a familiar, sorrowful chord that made their silver family thread visibly dim and waver. He cleared his throat. "But creativity thrives on parameters, on structure. The real world, the one we can measure and verify, operates on definable principles. Not on… well." His vague gesture at her sketchbook, sharper this time, seemed to wave away its contents as outside those principles.
 
-"The Unravelers," Vera confirmed. "They come from the spaces between worlds, the void that exists where threads have been severed. They feed on connection itself, growing stronger with every bond they destroy. And they've been growing stronger for a very long time."
+A familiar knot tightened in Lyra's chest. *Not real. Not definable.* His words built a wall between her reality and his. Her gaze swept the kitchen, lingering on the tangible absences of her mother. The empty easel. Dust-gathering art supplies. The framed photo where sometimes, in certain lights, ghostly threads lingered, pale as moonlight, leading nowhere, yet achingly present.
 
-"But why? What do they want?"
+## Mathematical Connections
 
-"To return everything to the void. To unmake the Web entirely and leave nothing but empty darkness." Vera's expression was grim. "They nearly succeeded once before, a thousand years ago. It took the combined power of all the Thread Seers to stop them, and the effort... it cost us everything. Our numbers, our knowledge, our very existence."
+"Actually," her father's voice brightened, "my current research might interest you." He straightened his glasses, "professor mode" engaged. "Connections—patterns of influence between seemingly unrelated systems."
 
-Lyra felt a chill that had nothing to do with the strange, windless air of this place. "And now there's just you. And... me."
+He sketched a diagram: nodes, lines connecting them, influence flowing between points. "Social networks, economic systems, even biological processes—all follow similar mathematical principles."
 
-"Just you," Vera corrected softly. "I am only an echo, child. A memory preserved in the Web itself. My time ended long ago."
+Lyra leaned forward. His diagram, all clean lines and precise nodes, mirrored her own hidden sketches of flowing light and organic color. The same underlying structure, viewed through different lenses—dual perspectives of the same truth.
 
-The weight of it hit Lyra like a physical blow. "You're saying I'm the only one left? That I'm supposed to stop these things by myself?"
+"Math reveals these connections everywhere," he continued, his hands leaving faint silver trails in her sight as he gestured. "From the dance of quantum particles to the vast architecture of galaxies. Invisible structures linking all things."
 
-"Not alone," Vera said, and for the first time, her smile held genuine warmth. "The Web itself will help you, as will those whose threads burn brightest. You'll find allies in the most unexpected places, Lyra. The Web has a way of bringing together those who are meant to stand against the darkness."
+"But what if they're *literally* real?" The words tumbled out. "The connections. What if someone could actually *see* those structures?"
 
-"But I don't know how to do any of this! I can barely touch a thread without everyone staring at me like I'm some kind of monster!"
+His brow furrowed, academic enthusiasm faltering. Concern clouded his expression. "That's... not how reality works, Lyra."
 
-"Because they fear what they don't understand. But fear can be overcome, child. Trust can be built. And power..." Vera reached out and touched Lyra's forehead with one finger. "Power can be taught."
+"But your equations predict connections. What if they're not just mathematical?"
 
-The moment Vera's finger made contact, knowledge flooded into Lyra's mind. Not just information, but understanding—deep, instinctive knowledge of how the threads worked, how they could be woven and rewoven, strengthened and repaired. She saw techniques for reading the emotions and memories carried along the silver strands, methods for following threads across vast distances, ways to use the Web itself as a weapon against those who would destroy it.
+"That's mysticism, not science." His voice cooled, a subtle shift that Lyra felt like a drop in temperature. "Your mother… she had similar notions. Grand, intuitive leaps, but without empirical foundation. Beautiful, perhaps, but not… testable. Not real in the way science demands."
 
-When the flood of knowledge finally stopped, Lyra staggered, her head reeling.
+The casual dismissal of her mother's way of seeing—and by extension, her own—stung with unexpected sharpness. The silver thread connecting them visibly frayed, shimmering with distressed light. *He doesn't understand. He won't even try.* "But isn't that just one way of knowing?" The question surprised even her, bolder than intended. "Your equations, they're beautiful, Ba, truly. But they feel… distant. What if there are other ways to perceive the same reality, ways that are just as valid, just… different?"
 
-"That's... that's everything," she gasped. "Everything the Thread Seers ever knew."
+His jaw tightened. "Science isn't just 'one way of knowing,' Lyra. It is the most rigorous, the most tested method we have for understanding the universe. It's the systematic pursuit of verifiable truth. Other approaches, while perhaps culturally interesting or artistically evocative, are not equivalent in defining reality."
 
-"Everything I knew," Vera corrected. "There was much more, once. But it's enough to begin with. The rest, you'll have to discover for yourself."
+The chasm between them widened. The silver filaments of their family thread seemed to unravel further, each word a snip. Wrong direction. She had to backtrack, to retreat to ground he found acceptable, even if it felt like a betrayal of her own burgeoning truth. "I meant… metaphorically," she said, the word tasting like ash. "Like how artists visualize abstract concepts to make them understandable."
 
-Lyra looked around at the vast, damaged Web, feeling the weight of responsibility settling on her shoulders like a cloak made of lead. "Where do I even start?"
+The tension in his shoulders eased, relief visibly softening his features. "Exactly. Useful metaphors, not literal phenomena." He checked his watch. "I have a faculty meeting. Finish those papers?"
 
-"With what you know," Vera said simply. "Your village. Your people. Save what you can, and let that be the first thread in a new pattern. The Web will guide you from there."
+After he left, Lyra returned to her sketchbook, adding details to the thread patterns. Not metaphors. Not abstractions. Real.
 
-The violet thread that had brought Lyra here began to pulse again, and she felt the strange platform beneath her feet starting to fade.
+## The Studio Revelation
 
-"Wait!" she called out. "Will I see you again?"
+The silence of the apartment pressed around her. Her father's footsteps had faded, leaving only distant traffic and restless thoughts. The argument hung in the air like smoke—his dismissal of her mother's "notions," his insistence on empirical truth over intuitive knowing.
 
-"When you need me most," Vera promised, her form already becoming translucent. "Remember, Lyra—every thread matters. Every connection has the power to change everything. Trust in that, and trust in yourself."
+*Your mother had similar notions.* The words echoed, sharp with unintended cruelty.
 
-The last thing Lyra saw before the light claimed her again was Vera's smile, warm and proud and infinitely sad.
+Unable to concentrate on grading papers, Lyra found herself drawn to the hallway, to the door that had remained closed for four years. Her mother's studio. Forbidden territory by unspoken agreement.
 
-Then she was back in the ruins of her village, the violet thread fading from her grasp. But the knowledge remained, burning bright in her mind like a silver flame.
+The polished wood was cool beneath her hesitant fingertips. Her father had forbidden her entry, but disobedience felt as vital as breathing. The silver-blue threads pulsed stronger here, responding to her presence.
 
-The shadow creatures were still there, still feeding. But now, for the first time, Lyra could see their weakness—the way they recoiled from the strongest threads, the way they avoided the connections that burned with love and hope and determination.
+She took a shallow breath, then, with sudden resolve, turned the knob.
 
-She stood up, stepped out of the shadows, and began to weave.`,
+The light flicked on. A world suspended between presence and absence. The dust-covered easel. Jars of dried paint. The half-finished canvas—a mountain landscape, one corner blank, a story interrupted.
+
+Her mother's journal lay on the small desk, its leather cover worn smooth. Embossed on it, a circle with radiating lines—a design that echoed unsettlingly with Lyra's own nascent visions of threads emanating from a central point. Beside it, a small silver pendant on a delicate chain, bearing the same symbol, caught the faint light.
+
+Heart hammering, Lyra remembered peeking inside the journal once. Page after page revealed sketches that mirrored her own "abstractions"—not mere swirls of light, but vibrant, purposeful threads rendered with her mother's confident hand. Interspersed were notes in an unrecognized script, repeating symbols that felt like a forgotten language. One page, startlingly, was in English: "The threads respond to intention. They are not just connections—they are pathways."
+
+The very air in the studio hummed. Memory threads, silvery-blue like moonlight on water, wove a delicate, almost invisible web between paintings, through brushes, around the journal and the pendant—a tapestry of memory and profound absence. Tonight, they shimmered with a soft, rhythmic pulse, like a sleeping heart.
+
+Lyra's fingers traced the journal's embossed symbol. The threads brightened, responding to her touch. Not imagination. Not grief. Something else.
+
+Her gaze was drawn to the pendant again. It seemed to pulse with a faint, inner light, almost beckoning. She reached out, her fingers hovering just above it, feeling a subtle warmth, a faint vibration. Her fingers trembled as they neared the pendant, an ache of longing to connect with this tangible piece of her mother so strong it was almost a physical pull. But the image of her father's carefully maintained silence around this room—the sheer weight of his unspoken grief—pressed down on her. She snatched her hand back as if the pendant were suddenly white-hot, its silent call still echoing in her mind.
+
+The sound of the front door opening made her freeze. Her father's footsteps in the hallway, returning from his meeting earlier than expected.
+
+"Lyra?" His voice carried through the apartment.
+
+She quickly turned off the studio light and slipped out, closing the door behind her with barely a whisper. Her heart hammered as she hurried to the kitchen, grabbing the stack of papers she was supposed to be grading.
+
+"In here, Bàba," she called, settling at the table just as he appeared in the doorway.
+
+He looked tired, his thread signature muted with grey exhaustion of academic politics. But his eyes went immediately to her face, reading something there that made him pause.
+
+"Everything alright?"
+
+"Just working on the papers," she said, not quite meeting his eyes. The pendant's warmth still seemed to linger on her fingertips, a secret burning between them.
+
+He nodded slowly, but she could see the question in his expression. The studio door was closed, as always, but something in the air had shifted. The memory threads still hummed faintly, carrying whispers of her mother's presence.
+
+"The Academy letter came today," he said quietly, pulling an envelope from his jacket. Thick cream paper. Official seal. "I thought... perhaps it's time we talked about your mother. About what this all means."
+
+Lyra's breath caught. The pendant's call seemed to pulse stronger, as if responding to his words. The threads between them—father and daughter, past and present, science and intuition—shimmered with new possibility.
+
+"Yes," she whispered. "I think it's time."
+
+He sat across from her, the Academy letter between them like a bridge. For the first time in years, the silver thread connecting them didn't fray with unspoken grief. Instead, it pulsed with something new: understanding, acceptance, and the beginning of truth.
+
+"Your mother," he began, his voice soft with memory, "she saw things. Like you do. And I... I was too afraid to believe her. Too afraid of what it might mean."
+
+The studio door remained closed, but Lyra could feel the pendant calling to her through the walls, a promise of answers, of connection, of a legacy she was only beginning to understand.
+
+The Academy awaited. Her mother's path beckoned. And for the first time, her father was ready to let her walk it.`,
     nextChapter: null,
     prevChapter: 'chapter-1',
   },

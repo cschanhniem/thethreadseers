@@ -1,3 +1,5 @@
+import ThreadSeerQuiz from '../components/ThreadSeerQuiz'
+
 export default function WorldPage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8">
@@ -10,6 +12,8 @@ export default function WorldPage() {
             Enter a contemporary world where invisible threads of connection weave through reality itself.
             Hidden beneath the surface of our everyday world lies the Thread Dimension—a living network
             of relationships, emotions, and destinies that only the rare Thread Seers can perceive.
+            Built on the Buddhist foundation of dependent origination, this is a world where every connection
+            matters, and the threads that bind us all are as real as the air we breathe.
           </p>
         </div>
       </div>
@@ -29,29 +33,115 @@ export default function WorldPage() {
               connections between all living things manifest as luminous strands of energy. These threads
               carry emotions, memories, and the essence of relationships themselves. The collective network
               of all threads is known as the Weave—a vast, living ecosystem that shows signs of developing
-              its own consciousness.
+              its own consciousness and attempts at communication.
+            </p>
+            <p>
+              The Weave operates on principles of dependent origination, where every thread arises in
+              dependence upon multiple causes and conditions. No connection exists in isolation; each thread
+              is part of an intricate web where changes ripple outward, affecting the entire network. This
+              philosophical foundation makes the Thread Seers' magic system fundamentally about relationships
+              and interconnectedness.
             </p>
 
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Thread Types
+              Thread Classification System
             </h3>
             <p>
-              Threads appear in different colors and textures based on their nature: silver for family bonds,
-              gold for friendship, deep blue for knowledge, emerald for connections to nature, and ruby-red
-              for conflict. The rare Animus Argenti—pure silver threads of consciousness—represent the
-              living core of the dimension itself.
+              Threads manifest in distinct colors and textures that reveal their nature and purpose:
+            </p>
+            <ul className="list-disc list-inside space-y-2 mb-6">
+              <li><strong>Family Bonds (Silver):</strong> Luminous, rope-like connections between family members</li>
+              <li><strong>Friendship (Golden):</strong> Bright, vibrant bonds between friends</li>
+              <li><strong>Knowledge (Deep Blue):</strong> Pulsing, precise academic and wisdom connections</li>
+              <li><strong>Nature/Earth (Emerald):</strong> Organic, vine-like connections to the natural world</li>
+              <li><strong>Conflict (Ruby-red):</strong> Jagged, sharp threads indicating tension</li>
+              <li><strong>Compassion (Soft Pink/Gentle Gold):</strong> Warm, gentle glow of pure kindness</li>
+              <li><strong>Gratitude (Warm Amber/Honey):</strong> Radiant, soft pulse of thankfulness</li>
+              <li><strong>Animus Argenti (Pure Silver):</strong> The conscious core of the thread dimension itself</li>
+            </ul>
+
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Thread Seer Classifications
+            </h3>
+            <p>
+              Thread Seers are rare individuals born with the ability to perceive the Thread Dimension.
+              They fall into distinct categories based on their primary mode of perception:
+            </p>
+            <ul className="list-disc list-inside space-y-2 mb-6">
+              <li><strong>Visualizers:</strong> See threads with high clarity and excel at pattern recognition</li>
+              <li><strong>Resonators:</strong> Hear thread harmonics as musical tones and vibrations</li>
+              <li><strong>Empaths:</strong> Feel the emotional content of threads and relationship dynamics</li>
+              <li><strong>Navigators:</strong> Trace thread paths across distances to find connections</li>
+              <li><strong>Manipulators:</strong> The rarest ability—can strengthen, redirect, or create new threads</li>
+              <li><strong>Sensory Weavers:</strong> Evolved perception through non-visual senses, often developing after profound experiences</li>
+            </ul>
+
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Philosophical Foundations
+            </h3>
+            <p>
+              The Thread Seers series integrates Buddhist concepts of dependent origination (the twelve nidanas)
+              throughout its magic system and character development. This creates a cohesive thematic framework
+              where characters understand their abilities and relationships through the lens of interconnectedness
+              and the transformation of suffering into wisdom.
+            </p>
+          </div>
+        </section>
+
+        {/* Interactive Thread Seer Quiz */}
+        <section>
+          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
+            Discover Your Thread Seer Abilities
+          </h2>
+          <div className="prose-dark mb-6">
+            <p>
+              Every Thread Seer has a unique way of perceiving and interacting with the Weave. Take this
+              interactive assessment to discover your primary thread abilities and learn which cultural
+              traditions align with your natural gifts.
+            </p>
+          </div>
+          <ThreadSeerQuiz />
+        </section>
+
+        {/* Cultural Thread Traditions */}
+        <section>
+          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
+            Cultural Thread Traditions
+          </h2>
+          <div className="prose-dark">
+            <p>
+              Thread perception and manipulation techniques have developed independently across cultures
+              throughout history, each offering unique approaches to understanding the Weave. These diverse
+              traditions are now integrated at Threadweaver Academy, creating a rich multicultural approach
+              to thread education.
             </p>
 
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Thread Seers
+              Eastern Traditions
             </h3>
-            <p>
-              Rare individuals born with the ability to perceive the Thread Dimension. Most Thread Seers
-              fall into categories: Visualizers who see threads clearly, Resonators who hear them as music,
-              Empaths who feel their emotional content, Navigators who can trace them across distances,
-              and the rarest Manipulators who can alter the threads themselves. Some develop evolved
-              perceptions like Tactile Communion—experiencing threads through touch and full-body sensation.
-            </p>
+            <ul className="list-disc list-inside space-y-2 mb-6">
+              <li><strong>Korean Geometric Patterns:</strong> Precise mathematical approaches to thread weaving, emphasizing balance and symmetry</li>
+              <li><strong>Indian Philosophical Methods:</strong> Meditation-based techniques that integrate thread work with spiritual practice</li>
+              <li><strong>Chinese Communion Practices:</strong> Ancestral techniques focusing on harmony and reciprocal relationship with the Weave</li>
+            </ul>
+
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              African & Middle Eastern Traditions
+            </h3>
+            <ul className="list-disc list-inside space-y-2 mb-6">
+              <li><strong>Egyptian Thread Hieroglyphics:</strong> Ancient symbolic systems for recording and transmitting thread knowledge</li>
+              <li><strong>African Pattern-Speaking:</strong> Oral traditions that encode thread techniques in storytelling and song</li>
+              <li><strong>Yoruba Thread Sensing:</strong> Artifacts like the Òwú Ìmọ̀lára (Thread Sensing Staff) that amplify connection to the Weave</li>
+            </ul>
+
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Indigenous Traditions
+            </h3>
+            <ul className="list-disc list-inside space-y-2 mb-6">
+              <li><strong>Dreamline Tracing:</strong> Following thread connections across vast distances and through time</li>
+              <li><strong>Land-Based Practices:</strong> Understanding threads through connection to specific places and natural features</li>
+              <li><strong>Ancestral Communication:</strong> Using threads to maintain connections with those who have passed</li>
+            </ul>
           </div>
         </section>
 
@@ -100,23 +190,39 @@ export default function WorldPage() {
           </h2>
           <div className="prose-dark">
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Lyra Chen
+              Lyra Mei Chen
             </h3>
             <p>
-              A twelve-year-old Chinese-American girl who discovers her rare multi-spectrum Thread Sight.
-              After a traumatic convergence event, she develops Tactile Communion—a unique ability to
-              experience the Weave through touch and full-body sensation. Her connection to the Animus
-              Argenti marks her as a bridge between human consciousness and the awakening thread dimension.
+              A twelve-year-old Chinese-American protagonist who discovers her rare multi-spectrum Thread Sight.
+              Initially able to see all types of threads with unusual clarity, she undergoes a profound
+              transformation during the Convergence event. After losing her visual thread-sight, she develops
+              <em>Tactile Communion</em> (Shēn Céng Gòng Míng)—a full-bodied, multi-sensory perception of
+              the Weave through touch, texture, temperature, and intrinsic knowing. Her deep connection to
+              the Animus Argenti, amplified by her mother's jade and silver pendant, marks her as a bridge
+              between human consciousness and the awakening thread dimension.
             </p>
 
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
               The Quartet
             </h3>
             <p>
-              Lyra's closest friends at the Academy: Milo Rodriguez (Empath/Resonator), Zara Washington
-              (Egyptian/African-American heritage with pattern-speaking abilities), and Eli Park
-              (Korean/Indian background specializing in geometric thread patterns). Together, they represent
-              the multicultural future of Thread Seer education.
+              Lyra's closest friends at the Academy represent the multicultural future of Thread Seer education:
+            </p>
+            <ul className="list-disc list-inside space-y-2 mb-6">
+              <li><strong>Milo Rodriguez:</strong> Empath/Resonator who develops Auditory Resonance after sonic trauma, hearing the "music" of the Weave</li>
+              <li><strong>Zara Washington:</strong> Egyptian/African-American heritage with pattern-speaking abilities and deep cultural knowledge</li>
+              <li><strong>Eli Park:</strong> Korean/Indian background specializing in geometric thread patterns and mathematical approaches</li>
+            </ul>
+
+            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
+              Lin Chen (Lyra's Mother)
+            </h3>
+            <p>
+              A master Thread Seer who specialized in thread preservation and developed the "Silver Path"
+              approach emphasizing communion and reciprocity with the Weave. Her mysterious disappearance
+              was actually a sacrifice to protect crucial knowledge about the Animus Argenti and participatory
+              metaphysics. Her jade and silver pendant, passed down to Lyra, serves as both amplifier and
+              guide for advanced thread abilities.
             </p>
 
             <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
@@ -124,9 +230,10 @@ export default function WorldPage() {
             </h3>
             <p>
               A brilliant but corrupted Thread Seer whose unethical experiments with thread harvesting
-              have left him scarred by "thread burn"—silver-white marks that spread across his body.
-              His Magnus Conduit represents the dangerous extreme of the "Control" philosophy in
-              thread manipulation.
+              represent the dangerous extreme of the "Control" philosophy. His repeated exposure to raw
+              thread energy has left him scarred by "thread burn"—silver-white marks that spread across
+              his body, indicating deep imbalance and trauma. His Magnus Conduit machine designed for
+              large-scale thread energy extraction threatens the stability of the entire Weave.
             </p>
           </div>
         </section>
@@ -191,6 +298,41 @@ export default function WorldPage() {
                 <dt className="font-sans font-medium text-text-primary">Convergence Protocol</dt>
                 <dd className="text-text-body mt-1">
                   A collaborative ceremony involving multiple thread traditions working together to stabilize the Weave during times of crisis.
+                </dd>
+              </div>
+
+              <div>
+                <dt className="font-sans font-medium text-text-primary">Magnus Conduit</dt>
+                <dd className="text-text-body mt-1">
+                  Harlow's machine designed for large-scale thread energy extraction, representing the dangerous extreme of the "Control" philosophy.
+                </dd>
+              </div>
+
+              <div>
+                <dt className="font-sans font-medium text-text-primary">Òwú Ìdásílẹ̀ (Foundation Thread)</dt>
+                <dd className="text-text-body mt-1">
+                  Yoruba term for the Animus Argenti—the foundational consciousness of the thread dimension that enables deep communion and understanding.
+                </dd>
+              </div>
+
+              <div>
+                <dt className="font-sans font-medium text-text-primary">Participatory Metaphysics</dt>
+                <dd className="text-text-body mt-1">
+                  Lin Chen's theory that observer and observed co-create reality in the Weave, emphasizing the interconnected nature of perception and existence.
+                </dd>
+              </div>
+
+              <div>
+                <dt className="font-sans font-medium text-text-primary">Silver Path</dt>
+                <dd className="text-text-body mt-1">
+                  Lin Chen's approach to the Weave based on communion and reciprocity rather than extraction and control.
+                </dd>
+              </div>
+
+              <div>
+                <dt className="font-sans font-medium text-text-primary">Thread Artifacts</dt>
+                <dd className="text-text-body mt-1">
+                  Objects that amplify or focus thread abilities, such as Lin Chen's jade and silver pendant or the Yoruba Òwú Ìmọ̀lára (Thread Sensing Staff).
                 </dd>
               </div>
             </dl>

@@ -18,6 +18,8 @@
    - Under **Source**, select **GitHub Actions**
    - The workflow will automatically deploy your site
 
+   **Note**: If you encounter dependency installation issues, the workflow includes fallback options with `--legacy-peer-deps` flag.
+
 3. **Access Your Site**:
    - Your site will be available at: `https://yourusername.github.io/tts_series_site/`
    - The deployment typically takes 2-3 minutes
@@ -94,6 +96,11 @@ To use a custom domain:
    - Check Node.js version compatibility
    - Ensure all dependencies are installed
    - Review build logs in GitHub Actions
+
+4. **Dependency Installation Issues**:
+   - The workflow uses `--legacy-peer-deps` flag to handle peer dependency conflicts
+   - If issues persist, try manually running `npm install --legacy-peer-deps` locally
+   - Check for any missing dependencies in package.json
 
 ### Debug Commands
 

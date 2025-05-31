@@ -10,10 +10,12 @@ export default function AuthorPage() {
       <div className="grid lg:grid-cols-3 gap-12">
         {/* Author Photo */}
         <div className="lg:col-span-1">
-          <div className="aspect-square bg-gradient-to-br from-text-secondary/20 to-text-secondary/5 rounded-sm border border-text-secondary/20 flex items-center justify-center mb-8">
-            <span className="text-text-secondary text-sm font-sans tracking-wide">
-              Author Photo
-            </span>
+          <div className="aspect-square rounded-sm border border-text-secondary/20 overflow-hidden mb-8">
+            <img
+              src="/img/leviethong.png"
+              alt="Le Viet Hong, author of The Thread Seers"
+              className="w-full h-full object-cover"
+            />
           </div>
         </div>
 
@@ -54,7 +56,7 @@ export default function AuthorPage() {
               every other story ever told.
             </p>
 
-           
+
           </div>
 
           {/* Contact/Social */}

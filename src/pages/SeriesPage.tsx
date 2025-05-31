@@ -9,6 +9,7 @@ const books = [
     blurb: 'Sixteen-year-old Lyra Chen has always seen the world differently. When she discovers she can perceive the invisible threads connecting all living things, she\'s thrust into the hidden world of Threadweaver Academy—where young Thread Seers learn to master extraordinary abilities. But someone is harvesting threads from the dimension itself, and Lyra must uncover the truth before the very fabric of reality unravels.',
     available: true,
     freeToRead: true,
+    coverImage: '/img/the_thread_seer_book1.jpg',
   },
   {
     id: 2,
@@ -138,12 +139,22 @@ export default function SeriesPage() {
                 </div>
               </div>
 
-              {/* Book Cover Placeholder */}
+              {/* Book Cover */}
               <div className="mt-8 lg:mt-0 lg:w-48 lg:flex-shrink-0">
-                <div className="aspect-[2/3] bg-gradient-to-br from-text-secondary/20 to-text-secondary/5 rounded-sm border border-text-secondary/20 flex items-center justify-center">
-                  <span className="text-text-secondary text-sm font-sans tracking-wide">
-                    Book {index + 1}
-                  </span>
+                <div className="aspect-[2/3] rounded-sm border border-text-secondary/20 overflow-hidden">
+                  {book.coverImage ? (
+                    <img
+                      src={book.coverImage}
+                      alt={`${book.title} - ${book.subtitle}`}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className="w-full h-full bg-gradient-to-br from-text-secondary/20 to-text-secondary/5 flex items-center justify-center">
+                      <span className="text-text-secondary text-sm font-sans tracking-wide">
+                        Book {index + 1}
+                      </span>
+                    </div>
+                  )}
                 </div>
               </div>
             </div>

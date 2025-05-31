@@ -67,10 +67,12 @@ export default function BookPage() {
       <div className="grid lg:grid-cols-3 gap-12">
         {/* Book Cover */}
         <div className="lg:col-span-1">
-          <div className="aspect-[2/3] bg-gradient-to-br from-text-secondary/20 to-text-secondary/5 rounded-sm border border-text-secondary/20 flex items-center justify-center mb-8">
-            <span className="text-text-secondary text-sm font-sans tracking-wide">
-              Book Cover
-            </span>
+          <div className="aspect-[2/3] rounded-sm border border-text-secondary/20 overflow-hidden mb-8">
+            <img
+              src="/img/the_thread_seer_book1.jpg"
+              alt="The Awakening Thread - Book One of The Thread Seers"
+              className="w-full h-full object-cover"
+            />
           </div>
 
           {/* Action Buttons */}

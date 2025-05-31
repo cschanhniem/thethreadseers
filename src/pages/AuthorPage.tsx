@@ -67,16 +67,16 @@ export default function AuthorPage() {
                 href="#"
                 className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300"
               >
-                Twitter
+                vh3969 at gmail.com
               </a>
-              <a
+              {/* <a
                 href="#"
                 className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300"
               >
                 Instagram
-              </a>
+              </a> */}
               <a
-                href="#"
+                href="https://www.goodreads.com/author/show/56881390.Hong_Le_Viet"
                 className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300"
               >
                 Goodreads

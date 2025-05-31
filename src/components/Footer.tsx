@@ -1,4 +1,4 @@
-import { Github, Twitter, Instagram } from 'lucide-react'
+import {  Twitter, Instagram } from 'lucide-react'
 
 const socialLinks = [
   {
@@ -10,12 +10,8 @@ const socialLinks = [
     name: 'Instagram', 
     href: '#',
     icon: Instagram,
-  },
-  {
-    name: 'GitHub',
-    href: '#',
-    icon: Github,
-  },
+  }
+  
 ]
 
 export default function Footer() {

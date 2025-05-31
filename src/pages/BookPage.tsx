@@ -76,12 +76,14 @@ export default function BookPage() {
           {/* Action Buttons */}
           <div className="space-y-4">
             {book.freeToRead && (
-              <Link
-                to={`/series/${bookSlug}/read/prologue`}
+              <a
+                href="https://www.amazon.com/dp/B0FBHK972Q/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block w-full minimal-button text-center text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-4 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
               >
-                Start Reading Prologue
-              </Link>
+                Read Sample on Amazon
+              </a>
             )}
 
             {book.available && (

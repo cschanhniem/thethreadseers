@@ -113,12 +113,14 @@ export default function SeriesPage() {
                 {/* Action Buttons */}
                 <div className="flex flex-col sm:flex-row gap-4">
                   {book.freeToRead && (
-                    <Link
-                      to={`/series/${book.slug}/read/chapter-1`}
+                    <a
+                      href="https://www.amazon.com/dp/B0FBHK972Q/"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="minimal-button text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-3 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300 text-center"
                     >
-                      Read Free
-                    </Link>
+                      Read Sample
+                    </a>
                   )}
 
                   {book.available ? (

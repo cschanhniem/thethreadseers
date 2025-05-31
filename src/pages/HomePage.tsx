@@ -18,12 +18,14 @@ export default function HomePage() {
 
           {/* Call to Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-            <Link
-              to="/series/book-one/read/chapter-1"
+            <a
+              href="https://www.amazon.com/dp/B0FBHK972Q/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="minimal-button text-lg font-medium bg-transparent border border-accent-silver/30 rounded-sm px-8 py-4 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
             >
               Read Book One
-            </Link>
+            </a>
 
             <Link
               to="/series"

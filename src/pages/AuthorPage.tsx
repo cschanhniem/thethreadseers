@@ -54,11 +54,7 @@ export default function AuthorPage() {
               every other story ever told.
             </p>
 
-            <p>
-              <em>The Thread Seers</em> is their debut series—a seven-book journey that will follow Lyra
-              and her friends from age 12 to 18, exploring how young people can find their place in
-              something vastly larger than themselves.
-            </p>
+           
           </div>
 
           {/* Contact/Social */}

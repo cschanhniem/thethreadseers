@@ -29,10 +29,10 @@ This is literary fantasy at its finest—a work that honors cultural authenticit
       }
     ],
     purchaseLinks: [
-      { name: 'Amazon', url: '#' },
-      { name: 'Barnes & Noble', url: '#' },
-      { name: 'Kobo', url: '#' },
-      { name: 'Apple Books', url: '#' },
+      { name: 'Amazon', url: 'https://www.amazon.com/dp/B0FBHK972Q/' },
+      { name: 'Indigo', url: 'https://www.indigo.ca/en-ca/the-thead-seers/9ec6ef92-0904-3d7a-9a82-4aac0079ca1b.html' },
+      { name: 'Kobo', url: 'https://www.kobo.com/ww/en/ebook/the-thead-seers' },
+      { name: 'Google Play Books', url: 'https://play.google.com/store/books/details/LE_VIET_HONG_The_Thread_Seers?id=hpVfEQAAQBAJ&hl=en' },
     ]
   }
 }

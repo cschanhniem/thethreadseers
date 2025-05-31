@@ -13,6 +13,12 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     sourcemap: true,
+    rollupOptions: {
+      output: {
+        manualChunks: undefined,
+      },
+    },
+    cssCodeSplit: false,
   },
   server: {
     port: 3000,

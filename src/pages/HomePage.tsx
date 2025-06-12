@@ -19,7 +19,7 @@ export default function HomePage() {
           {/* Call to Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <a
-              href="https://www.amazon.com/dp/B0FBHK972Q/"
+              href="https://www.wattpad.com/story/395599266-the-thread-seers"
               target="_blank"
               rel="noopener noreferrer"
               className="minimal-button text-lg font-medium bg-transparent border border-accent-silver/30 rounded-sm px-8 py-4 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
